@@ -1,0 +1,12 @@
+# Folders to ignore
+dataset/
+saved_models/
+
+# Files to ignore
+Doc1.docx
+*.jpg
+
+# Optional: Python-related ignores
+__pycache__/
+*.pyc
+*.pth
