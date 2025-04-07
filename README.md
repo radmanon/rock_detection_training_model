@@ -1,0 +1,1 @@
+# rock_detection_training_model
